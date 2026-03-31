@@ -1,0 +1,8 @@
+201,guest1,5
+202,guest2,3
+203,guest3,10
+204,guest4,2
+205,guest5,19
+206,guest6,6
+207,guest7,29
+208,guest8,8
